@@ -1,0 +1,11 @@
+{
+  "name": "chat-app-apis",
+  "version": "1.0.0",
+  "description": "Socket.io implementation to chat with signed up users",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Ahsan Ihsan (ahsanihsan)",
+  "license": "ISC"
+}
